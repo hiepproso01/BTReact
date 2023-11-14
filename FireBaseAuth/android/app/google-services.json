@@ -7,7 +7,7 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:486444252091:android:c81e0fc06d41d6c4e6a29e",
+        "mobilesdk_app_id": "1:486444252091:android:fcb73345c9af74fbe6a29e",
         "android_client_info": {
           "package_name": "com.firebaseauth"
         }
